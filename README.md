@@ -6,13 +6,21 @@
 <code><a href="https://www.hackerrank.com/palveet"><img height="30" src="https://geeksgod.com/wp-content/uploads/2020/04/hackerrank.png"></a></code>
 <code><a href="https://leetcode.com/palveet/"><img height="30" src="https://media.licdn.com/dms/image/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/0?e=2159024400&v=beta&t=Qk8MU_WjUw8GIpZtZhWF4rxpbuEEEJ6Eypq1q0loNzM"></a></code>
 <code><img align="right" src="https://media01.gameloft.com/web_mkt/minisites/minionrush/assets/mros/img/hi-res/minion-menu.png"></code>
+
 - 🔭 I’m currently working on SRM MIC's official website :)
+
 - 🌱 I’m currently learning MEAN stack
+
 - 👯 I’m looking to collaborate on web development and data science projects
+
 - 🤔 I’m looking for help with Angular
+
 - 💬 Ask me about web development and data science
+
 - ⚡️ Fun Fact: I am a minion working on a computer.
+
 - 📫 How to reach me: palveetkaursaluja@gmail.com 
+
 <hr>
 
 **Languages and Tools which make my life easier**
