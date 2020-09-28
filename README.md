@@ -41,6 +41,9 @@
 <code><img height="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png"></a></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></a></code>
 
+<hr>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Palveet)](https://github.com/Palveet/github-readme-stats)
+
 
 [![Palveet's github stats](https://github-readme-stats.vercel.app/api?username=Palveet)](https://github.com/Palveet/github-readme-stats)
