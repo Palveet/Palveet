@@ -9,19 +9,20 @@
 <code><a href="https://leetcode.com/palveet/"><img height="30" src="https://media.licdn.com/dms/image/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/0?e=2159024400&v=beta&t=Qk8MU_WjUw8GIpZtZhWF4rxpbuEEEJ6Eypq1q0loNzM"></a></code>
 <code><img align="right" src="https://media01.gameloft.com/web_mkt/minisites/minionrush/assets/mros/img/hi-res/minion-menu.png"></code>
 
-- 🔭 I’m currently working on SRM MIC's official website :)
+- <h1>🔭 I’m currently working on</h1><br>
+  SRM MIC's official website :)
 
-- 🌱 I’m currently learning MEAN stack
+- <h1>🌱I’m currently learning</h1><br> MEAN stack
 
-- 👯 I’m looking to collaborate on web development and data science projects
+- <h1>👯 I’m looking to collaborate on</h1><br> web development and data science projects
 
-- 🤔 I’m looking for help with Angular
+-<h1> 🤔 I’m looking for help with</h1><br> Angular
 
-- 💬 Ask me about web development and data science
+- <h1>💬 Ask me about </h1><br>web development and data science
 
-- ⚡️ Fun Fact: I am a minion working on a computer.
+- <h1>⚡️ Fun Fact:</h1><br> I am a minion working on a computer.
 
-- 📫 How to reach me: palveetkaursaluja@gmail.com 
+- <h1>📫 How to reach me:</h1><br> palveetkaursaluja@gmail.com 
 
 <hr>
 
