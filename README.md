@@ -1,5 +1,7 @@
  Hi there! I am Palveet👋 Undergraduate at SRM Institute of Science and Technology. I am a web developer and a data science enthusiast. I have designed and developed few cool websites and still learning great stuff everyday :)
  
+ ![](https://komarev.com/ghpvc/?username=Palveet&color=yellow)
+
 <code><a href="https://linkedin.com/in/palveetks"> <img height="30" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"></a></code>
 <code><a href="https://github.com/in/Palveet"> <img height="30" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4"></a></code>
 <code><a href="https://twitter.com/palveet10"> <img height="30" src="https://www.iconfinder.com/data/icons/transparent-on-dark-grey/500/icon-03-512.png"></a></code>
