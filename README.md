@@ -7,6 +7,10 @@
 <code><a href="https://twitter.com/palveet10"> <img height="30" src="https://www.iconfinder.com/data/icons/transparent-on-dark-grey/500/icon-03-512.png"></a></code>
 <code><a href="https://www.hackerrank.com/palveet"><img height="30" src="https://geeksgod.com/wp-content/uploads/2020/04/hackerrank.png"></a></code>
 <code><a href="https://leetcode.com/palveet/"><img height="30" src="https://media.licdn.com/dms/image/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/0?e=2159024400&v=beta&t=Qk8MU_WjUw8GIpZtZhWF4rxpbuEEEJ6Eypq1q0loNzM"></a></code>
+<a href="https://dev.to/palveet">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Palveet Kaur Saluja's DEV Profile" height="30" width="30">
+</a>
+ 
 <code><img align="right" src="https://media01.gameloft.com/web_mkt/minisites/minionrush/assets/mros/img/hi-res/minion-menu.png"></code>
 
 - <h1>🔭 I’m currently working on</h1><br>
