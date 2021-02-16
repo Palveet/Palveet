@@ -10,7 +10,6 @@
 <a href="https://dev.to/palveet">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Palveet Kaur Saluja's DEV Profile" height="30" width="30">
 </a>
- 
 <code><img align="right" src="https://media01.gameloft.com/web_mkt/minisites/minionrush/assets/mros/img/hi-res/minion-menu.png"></code>
 
 - <h1>🔭 I’m currently working on</h1><br>
