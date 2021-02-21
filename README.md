@@ -13,7 +13,7 @@
 <code><img align="right" src="https://media01.gameloft.com/web_mkt/minisites/minionrush/assets/mros/img/hi-res/minion-menu.png"></code>
 
 - <h1>🔭 I’m currently working on</h1><br>
-  SRM MIC's official website :)
+  IW Website and Internship Portal
 
 - <h1>🌱I’m currently learning</h1><br> MEAN stack
 
