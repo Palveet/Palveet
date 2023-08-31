@@ -1,4 +1,4 @@
- Hi there! I am Palveet👋 Undergraduate at SRM Institute of Science and Technology. I am a web developer and a data science enthusiast. I have designed and developed few cool websites and still learning great stuff everyday :)
+ Hi there! I am Palveet👋 CS Grad at University of Illinois Urbana-Champaign. I am a web developer and a data science enthusiast. I have designed and developed few cool websites and still learning great stuff everyday :)
  
  ![](https://komarev.com/ghpvc/?username=Palveet&color=yellow)
 
@@ -12,14 +12,9 @@
 </a>
 <code><img align="right" src="https://media01.gameloft.com/web_mkt/minisites/minionrush/assets/mros/img/hi-res/minion-menu.png"></code>
 
-- <h1>🔭 I’m currently working on</h1><br>
-  IW Website and Internship Portal
-
-- <h1>🌱I’m currently learning</h1><br> MEAN stack
-
+- <h1>🔭 I’m currently working as</h1><br>
+  Project Manager
 - <h1>👯 I’m looking to collaborate on</h1><br> web development and data science projects
-
--<h1> 🤔 I’m looking for help with</h1><br> Angular
 
 - <h1>💬 Ask me about </h1><br>web development and data science
 
